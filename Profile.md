@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manojbobby
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning azure cloud infrastructure
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
